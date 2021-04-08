@@ -3,10 +3,10 @@ body{
     font: 20px arial, sans-serif;
 }
 .navbar{
- background-color:rgba(67, 206, 199, 0.918)
+ background-color:rgba(157, 206, 67, 0.918)
 }
 .quem-somos{
-    background-color:rgba(154, 154, 241, 0.918);
+    background-color:rgba(215, 241, 154, 0.918);
     color: white;
     
     
@@ -17,7 +17,7 @@ body{
     padding-top: 10px;
 }
 .parceiros{
-     background-color: rgb(91, 219, 151);  
+     background-color: rgb(219, 91, 187);  
      color:blue     
 }
 .rg-footer{
@@ -25,25 +25,4 @@ body{
 }
 body{
     font: 20px arial, sans-serif;
-}
-.navbar{
- background-color:rgba(67, 206, 199, 0.918)
-}
-.quem-somos{
-    background-color:rgba(154, 154, 241, 0.918);
-    color: white;
-    
-    
-}
-.margin{
-    
-    padding-bottom: 50px;
-    padding-top: 10px;
-}
-.parceiros{
-     background-color: rgb(91, 219, 151);  
-     color:blue     
-}
-.rg-footer{
-    background-color: burlywood;
 }
